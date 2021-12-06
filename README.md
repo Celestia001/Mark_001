@@ -15,7 +15,7 @@ Creating My First Project
 
 ***Both Bold and Itallic***
 
---lakminadh--
+~~lakminadh~~
 
 * ***Unordered List***
   * Raiden shougun
