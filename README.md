@@ -34,3 +34,10 @@ s.no|name|required|
 1|kokomi|sango pearls
 2|Qiqi|violet grass
 3|Hutao|Silk flowers
+
+First list item
+   - First nested list item
+     - Second nested list item
+
+:grinning:
+:dog:
