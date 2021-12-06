@@ -41,3 +41,4 @@ First list item
 
 :grinning:
 :dog:
+:india:
